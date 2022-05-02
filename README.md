@@ -104,10 +104,10 @@
     </td>
     <td align="center" height="130" width="130">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/PostgreSQL/PostgreSQL-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="45"
         height="45"
-        alt="PostgreSQL"
+        alt="postgresql"
       />
       <br /><strong>Postgresql</strong>
     </td>
