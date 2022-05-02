@@ -107,7 +107,7 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
         width="45"
         height="45"
-        alt="postgresql"
+        alt="PostgreSQL"
       />
       <br /><strong>Postgresql</strong>
     </td>
