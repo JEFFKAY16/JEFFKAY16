@@ -3,7 +3,7 @@
   A Full Stack Developer passionate about wildlife conservation & climate action.
 </h3>
 <h3 align="center">
-  Computer Programmer | Entrepreneur | Traveler | Global Citizen | I'm Available For Hire
+  Computer Programmer | Entrepreneur | Traveler | Available For Hire
 </h3>
 <br>
 
