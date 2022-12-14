@@ -30,12 +30,12 @@
     </td>
     <td align="center" height="130" width="130">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
         width="45"
         height="45"
-        alt="Redux"
+        alt="Typescript"
       />
-      <br /><strong>Redux</strong>
+      <br /><strong>TypeScript</strong>
     </td>
     <td align="center" height="130" width="130">
       <img
