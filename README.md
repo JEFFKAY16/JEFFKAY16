@@ -3,7 +3,7 @@
   A Full Stack Software & Product Engineer passionate about sustainable development & solving real world problems.
 </h3>
 <h3 align="center">
-  Tech Entrepreneur | Innovator | Life-long Learner
+  Tech Entrepreneur | Product | Life-long Learner
 </h3>
 <br>
 
