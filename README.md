@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Jeff Kayombo😃</h1>
 <h3 align="center">
-  A Full Stack Software & Product Engineer passionate about sustainable development & solving real world problems.
+  A Full Stack Software Engineer passionate about sustainable development & solving real world problems.
 </h3>
 <h3 align="center">
   Tech Entrepreneur | Software Engineer | Life-long Learner
