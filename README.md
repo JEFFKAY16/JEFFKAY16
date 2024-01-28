@@ -136,15 +136,15 @@
 <br>
 
 
-<h2>Stats:<h2>
+<!---- <h2>Stats:<h2>
 <img
 src="https://github-readme-stats.vercel.app/api?username=JEFFKAY16&show_icons=true&theme=dark&&hide_border=true"
 />
 <img
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEFFKAY16&layout=compact&langs_count=7&theme=dark&&hide_border=true&card_width=445px"
-/>
+/> -->
 
-<!-- # Hi there 👋. I'm Jeff
+# Hi there 👋. I'm Jeff
  
 <img width=100% src="Jeff.png" alt="">
 
@@ -182,4 +182,4 @@ Here are a few things about me:
 <p align="start"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JEFFKAY16&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 ## My GitHub stats
-[![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEFFKAY16&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Jeff's GitHub stats](https://github-readme-stats.vercel.app/api?username=JEFFKAY16&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
